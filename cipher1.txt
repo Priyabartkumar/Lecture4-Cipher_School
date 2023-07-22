@@ -1,0 +1,15 @@
+In this lecture we learned about data type and the amount of space it take.ex- int(for integer),char(for character), long, double etc...
+
+We also learned about explicit data type and implicit data type
+
+
+basic structure of java
+ 
+public class 1stlecture{
+                      public static void main(String[] args){
+
+                    int a= 45;
+                      float b= 4.5;
+        System.out.print("A is :"+ a);
+       }
+}
