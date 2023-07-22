@@ -1,0 +1,8 @@
+lecture 4
+
+instantiation- it means to create an object of a class
+
+In this lecture we learned about the stack and heap.
+
+In stack we mainly store data type and local variables whereas in heap objects are stored.
+Garbage value are mainly stored in Heap.
